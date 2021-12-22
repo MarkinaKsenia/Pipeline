@@ -1,0 +1,17 @@
+{
+"characters": "﻿абвгдеёжзийклмнопрстуфхцчшщъыьэюяabcdefghijklmnopqrstuvwxyzАБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789][_!$%#@|\\/?-+=()*&.;:,{}\"´`'<>",
+"size": 29,
+"hinting": "AutoFull",
+"color": "black",
+"colorValue": 255,
+"gamma": 1.8,
+"renderCount": 2,
+"borderGamma": 1.8,
+"shadowOffsetX": 1,
+"shadowOffsetY": 1,
+"shadowColor": "RGBA_219_219_219_255",
+"shadowColorValue": -606348289,
+"kerning": true,
+"minFilter": "Nearest",
+"magFilter": "Nearest"
+}

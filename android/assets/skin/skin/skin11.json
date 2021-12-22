@@ -1,0 +1,11 @@
+{
+"com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle": {
+	"default": {
+		"up": "rock",
+		"down": "rock"
+	},
+	"small": {
+		"up": "rock"
+	}
+}
+}

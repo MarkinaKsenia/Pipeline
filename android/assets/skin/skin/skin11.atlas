@@ -1,0 +1,13 @@
+
+skin11.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rock
+  rotate: false
+  xy: 1, 1
+  size: 1024, 1024
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1

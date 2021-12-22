@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "260064349788",
+    "project_id": "pipeline-68219",
+    "storage_bucket": "pipeline-68219.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260064349788:android:c483d166665998ad3be099",
+        "android_client_info": {
+          "package_name": "com.markinaksenia.pipeline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260064349788-klae58ga55385b2n417t3b3pncohaasf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.markinaksenia.pipeline",
+            "certificate_hash": "3aff7287f3f950ea026937be831002dfe42eaa74"
+          }
+        },
+        {
+          "client_id": "260064349788-r179k7ra2ujm53g3a9j9k848v7a3bjrk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNLIDAA8IT3jQdcK1dgP4VBF6Jue5xCac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260064349788-r179k7ra2ujm53g3a9j9k848v7a3bjrk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

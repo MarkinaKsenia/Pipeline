@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="black95">#95000000</color>
+    <color name="gold">#F7D51B</color>
+    <color name="white">#ffffff</color>
+    <color name="ic_background_color">#FFFFFFFF</color>
+    <color name="colorControlNormal">#C5C5C5</color>
+    <color name="colorControlActivated">@color/colorAccent</color>
+    <color name="colorControlHighlight">@color/colorAccent</color>
+</resources>
